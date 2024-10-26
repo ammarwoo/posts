@@ -23,6 +23,7 @@
     const value = await db.collection("posts").getFullList();
     data.value= result;
   }
+  
 
 
 
